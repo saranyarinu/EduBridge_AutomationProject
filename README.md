@@ -18,4 +18,4 @@ Key features of SauceDemo.com include:
 	allowing users to interact with it seamlessly across various devices and screen sizes.
 	
 	Overall, SauceDemo.com serves as an educational tool for developers, testers, and quality assurance 
-professionals to explore and experiment with Sauce Labs' testing solutions in a simulated e-commerce setting.
+ professionals to explore and experiment with Sauce Labs' testing solutions in a simulated e-commerce setting.
